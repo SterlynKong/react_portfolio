@@ -37,7 +37,7 @@ function Page({ currentPage }) {
         <section>
             <h2>{currentPage.name}</h2>
             <PageContent>
-                {renderPageContent}
+                {renderPageContent()}
             </PageContent>
         </section>
     );

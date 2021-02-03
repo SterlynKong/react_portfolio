@@ -6,7 +6,7 @@ function Resume() {
     return (
         <section className='my-5'>
             <div className='my-2'>
-                <p> View my Resume on <a href='https://www.linkedin.com/in/sterlyn-k-487144bb'>linkedin.</a></p>
+                <p><a href='https://www.icloud.com/iclouddrive/0s5YqM86jgMMJ58RvWgfAMb8g#Sterlyn_Kong__Resume' target='_blank' rel='noopener noreferrer'>Download my Resume</a></p>
                 <h3>Skills with front-end code include:</h3>
                 <ul className='skills'>
                     {/*My Favourite*/}

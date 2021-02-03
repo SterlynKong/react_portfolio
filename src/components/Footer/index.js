@@ -11,7 +11,7 @@ function Footer() {
         },
         {
             name: 'fab -fa-linkedin',
-            link: 'www.linkedin.com/in/sterlyn-k-487144bb'
+            link: 'https://www.linkedin.com/in/sterlyn-kong'
         },
         {
             name: 'fab fa-email',
