@@ -155,6 +155,10 @@ header h1 {
   color: var(--light);
 }
 
+.fa-user-circle {
+  color: var(--secondary);
+}
+
 nav a:hover {
   text-decoration: none;
 }
@@ -288,4 +292,8 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+
+footer {
+  background: var(--tertiary);
 }

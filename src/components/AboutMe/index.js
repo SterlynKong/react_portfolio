@@ -7,10 +7,10 @@ function AboutMe() {
         <section className='my-5'>
             <div className="my-2">
                 <div className="profile-img my-5">
-                    <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
+                    <i className="fa fa-user-circle" style={{ fontSize: "96px" }}></i>
                 </div>
                 <p>
-                    "A little bit of hard work and inspiration can turn characters in files into works of fucntional art" - Sterlyn Kong
+                    "A little bit of hard work and inspiration can turn text in files into works of functional art" - Sterlyn Kong
                 </p>
                 <p>
                 I am an intelligent and hard working individual who works well with others while maintaining the ability to complete projects on my own.

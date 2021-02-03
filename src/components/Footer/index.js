@@ -6,15 +6,15 @@ function Footer() {
     // add array of links and accompanying icons for spaces where I can be contacted
     const socials = [
         {
-            name: 'fab fa-github',
+            name: 'fa fa-github',
             link: 'https://github.com/SterlynKong'
         },
         {
-            name: 'fab -fa-linkedin',
+            name: 'fa fa-linkedin',
             link: 'https://www.linkedin.com/in/sterlyn-kong'
         },
         {
-            name: 'fab fa-email',
+            name: 'fa fa-envelope',
             link: '<a href="mailto:sterlyn.kong@icloud.com">'
         }
     ]
